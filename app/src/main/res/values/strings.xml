@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConsumablesApp</string>
+    <string name="tracker">Tracker!</string>
+    <string name="my">My</string>
+    <string name="login">LOGIN</string>
+    <string name="consumables">Consumables\'</string>
+    <string name="new_user_sign_up">New user sign up</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm password</string>
+</resources>
